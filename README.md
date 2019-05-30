@@ -35,6 +35,9 @@ Create Super User.
 
     python manage.py createsuperuser
 
+Browse 
+
+    http://localhost:3000
 
 <hr>
 Reference Sites
