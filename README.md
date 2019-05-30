@@ -34,3 +34,11 @@ Create database migration
 Create Super User.
 
     python manage.py createsuperuser
+
+
+<hr>
+Reference Sites
+
+https://dev.to/joekreydt/deploy-django-in-a-docker-container--41n6
+
+https://docs.docker.com/compose/django/
